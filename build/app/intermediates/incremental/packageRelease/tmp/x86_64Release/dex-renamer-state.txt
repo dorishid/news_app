@@ -1,0 +1,4 @@
+#Wed Nov 06 15:02:22 WIB 2024
+base.0=C\:\\Users\\HP\\Downloads\\news_app-main\\news_app-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
